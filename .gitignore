@@ -23,3 +23,4 @@ data_tengrinews/
 
 # Jupyter
 .ipynb_checkpoints/
+src/__pycache__/
