@@ -1,0 +1,25 @@
+# OS / Editor
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+venv/
+.env/
+.venv/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Data
+*.jsonl
+*.db
+chroma_db/
+cache/
+data_tengrinews/
+
+# Jupyter
+.ipynb_checkpoints/
